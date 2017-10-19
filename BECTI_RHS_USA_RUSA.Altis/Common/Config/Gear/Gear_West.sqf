@@ -752,6 +752,10 @@ _i = _i		+ ["rhs_weap_smaw_green"];
 _u = _u		+ [2];
 _p = _p		+ [190];
 
+_i = _i		+ ["rhs_weap_maaws"];
+_u = _u		+ [3];
+_p = _p		+ [200];
+
 _i = _i		+ ["rhs_weap_fim92"];
 _u = _u		+ [2];
 _p = _p		+ [300];
@@ -1569,6 +1573,10 @@ _p = _p		+ [30];
 
 _i = _i		+ ["rhs_weap_optic_smaw"];
 _u = _u		+ [2];
+_p = _p		+ [10];
+
+_i = _i		+ ["rhs_weap_maaws_optic"];
+_u = _u		+ [3];
 _p = _p		+ [10];
 
 
