@@ -79,6 +79,7 @@ _p = _p + [''];
 _n = _n + [''];
 _o = _o + [100];
 _t = _t + [5];
+
 _u = _u + [0];
 _f = _f + [CTI_FACTORY_BARRACKS];
 _s = _s + [""];
@@ -98,6 +99,15 @@ _n = _n + [''];
 _o = _o + [100];
 _t = _t + [5];
 _u = _u + [0];
+_f = _f + [CTI_FACTORY_BARRACKS];
+_s = _s + [""];
+
+_c = _c + ['rhsusf_army_ocp_maaws'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [275];
+_t = _t + [5];
+_u = _u + [1];
 _f = _f + [CTI_FACTORY_BARRACKS];
 _s = _s + [""];
 
