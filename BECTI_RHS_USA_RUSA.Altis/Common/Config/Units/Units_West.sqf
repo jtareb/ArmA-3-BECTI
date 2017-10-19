@@ -102,7 +102,7 @@ _u = _u + [0];
 _f = _f + [CTI_FACTORY_BARRACKS];
 _s = _s + [""];
 
-_c = _c + ['rhsusf_army_ocp_maaws'];
+_c = _c + ['rhsusf_army_ucp_maaws'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [275];
@@ -293,6 +293,15 @@ _u = _u + [0];
 _f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
+_c = _c + ['rhsusf_c_m1117'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [300];
+_t = _t + [20];
+_u = _u + [1];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
 _c = _c + ['rhsusf_m1025_w_m2'];
 _p = _p + [''];
 _n = _n + [''];
@@ -438,6 +447,15 @@ _f = _f + [CTI_FACTORY_LIGHT];
 _s = _s + [""];
 
 _c = _c + ['rhsusf_m1237_MK19_usarmy_wd'];
+_p = _p + [''];
+_n = _n + [''];
+_o = _o + [650];
+_t = _t + [40];
+_u = _u + [3];
+_f = _f + [CTI_FACTORY_LIGHT];
+_s = _s + [""];
+
+_c = _c + ['rhsusf_c_Caiman'];
 _p = _p + [''];
 _n = _n + [''];
 _o = _o + [650];
