@@ -249,6 +249,22 @@ _i = _i		+ ["rhs_mag_smaw_SR"];
 _u = _u		+ [2];
 _p = _p		+ [25];
 
+_i = _i		+ ["rhs_mag_maaws_HE"];
+_u = _u		+ [3];
+_p = _p		+ [100];
+
+_i = _i		+ ["rhs_mag_maaws_HEDP"];
+_u = _u		+ [3];
+_p = _p		+ [100];
+
+_i = _i		+ ["rhs_mag_maaws_HEAT"];
+_u = _u		+ [3];
+_p = _p		+ [100];
+
+_i = _i		+ ["rhs_mag_maaws_ILLUM"];
+_u = _u		+ [3];
+_p = _p		+ [100];
+
 _i = _i		+ ["rhs_fim92_mag"];
 _u = _u		+ [2];
 _p = _p		+ [100];
