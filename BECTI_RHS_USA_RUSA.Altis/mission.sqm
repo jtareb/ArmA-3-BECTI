@@ -1,3 +1,4 @@
+
 version=53;
 class EditorData
 {
@@ -31,8 +32,20 @@ addons[]=
 {
 	"rhsusf_c_troops",
 	"rhs_c_troops",
+	"RHS_US_A2_AirImport",
+	"ace_compat_rhs_usf3",
+	"rhsusf_c_f22",
+	"rhs_c_t72",
+	"rhsusf_c_m1a1",
+	"rhsusf_c_m1a2",
+	"rhs_c_tanks",
+	"RHS_US_A2Port_Armor",
+	"ace_compat_rhs_afrf3",
+	"rhsgref_c_vehicles_ret",
 	"A3_Ui_F",
 	"A3_Modules_F",
+	"A3_Weapons_F",
+	"A3_Weapons_F_Items",
 	"A3_Characters_F"
 };
 class AddonsMetaData
@@ -71,9 +84,87 @@ class AddonsMetaData
 		class Item4
 		{
 			className="A3_Characters_F";
+			
 			name="Arma 3 Alpha - Characters and Clothing";
 			author="Bohemia Interactive";
 			url="https://www.arma3.com";
+		};
+		class Item5
+		{
+			className="RHS_US_A2_AirImport";
+			name="RHSUSF A2 Air Ports";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item6
+		{
+			className="ace_compat_rhs_usf3";
+			name="ACE3 - RHS USF Compatibility";
+			author="ACE-Team";
+			url="http://ace3mod.com/";
+		};
+		class Item7
+		{
+			className="rhsusf_c_f22";
+			name="F-22 Fighter";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item8
+		{
+			className="A3_Weapons_F";
+			name="Arma 3 Alpha - Weapons and Accessories";
+			author="Bohemia Interactive";
+			url="https://www.arma3.com";
+		};
+		class Item9
+		{
+			className="rhs_c_t72";
+			name="T-72 Series Tanks";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item10
+		{
+			className="rhs_c_tanks";
+			name="T-80 Series Tanks";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item11
+		{
+			className="ace_compat_rhs_afrf3";
+			name="ACE3 - RHS AFRF Compatibility";
+			author="ACE-Team";
+			url="http://ace3mod.com/";
+		};
+		class Item12
+		{
+			className="rhsgref_c_vehicles_ret";
+			name="GREF Vehicle Retextures";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item13
+		{
+			className="rhsusf_c_m1a1";
+			name="M1A1 Tanks";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item14
+		{
+			className="rhsusf_c_m1a2";
+			name="M1A2 Tanks";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
+		};
+		class Item15
+		{
+			className="RHS_US_A2Port_Armor";
+			name="M2 Bradley IFV";
+			author="Red Hammer Studios";
+			url="http://www.rhsmods.org/";
 		};
 	};
 };
